@@ -12,16 +12,16 @@ Este projeto faz parte do meu portfólio profissional em Engenharia de Software.
 
 ##  Objetivos
 
-- Compreender o modelo de negócio da empresa.
-- Identificar oportunidades de melhoria.
-- Levantar requisitos funcionais e não funcionais.
-- Documentar regras de negócio.
-- Produzir documentação técnica.
-- Servir como base para o desenvolvimento do sistema.
+- Compreender o modelo de negócio da empresa
+- Identificar oportunidades de melhoria
+- Levantar requisitos funcionais e não funcionais
+- Documentar regras de negócio
+- Produzir documentação técnica
+- Servir como base para o desenvolvimento do sistema
 
 ---
 
-## 🛠 Competências Demonstradas
+##  Competências Demonstradas
 
 - Business Analysis
 - Engenharia de Requisitos
@@ -63,4 +63,4 @@ Este projeto faz parte do meu portfólio profissional em Engenharia de Software.
 
 Graduanda em Análise e Desenvolvimento de Sistemas
 
-Portfólio voltado para Engenharia de Software, Quality Assurance e Desenvolvimento Web.
+Portfólio voltado para Engenharia de Software.
